@@ -1,5 +1,8 @@
 # Probabilities-and-Statistics-Project
 
-Exploring, creating visual representations and interpreting probability and statistic notions such as simple and multiple linear regression
-,  mean, median, variance, quantiles and Laplace distribution.
-# 
+Exploring, creating visual representations and interpreting probability and statistic notions such as simple and multiple linear regression, 
+mean, median, variance, quantiles and Laplace distribution, regarding a R data set. 
+
+# Features
+- descriptive statistic operations
+- 
